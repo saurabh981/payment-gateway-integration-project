@@ -1,5 +1,7 @@
 Payment Gateway Integration
-#TASK2 : PAYMENT GATEWAY INTEGRATION
+
+
+#TASK2 : PAYMENT GATEWAY INTEGRATION  , #GRIPMAY21  ,  #TSF  ,  #TASK2
 
 
 GRIP Web developement and design internship MAY'21 . Tech used : Front-end : HTML,CSS & BOOTSTRAP and java script Back-end:PHP Payment gateway : razorpay
